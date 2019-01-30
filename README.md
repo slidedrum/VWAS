@@ -1,4 +1,4 @@
-# VWAS
+# V.W.A.S.
 Vive Wireless Auto Start
 
 Place VWAS.py into it's own folder, and run it with Python 3.  It will open up a console window and you should't need to do anything else unless there is a problem.
